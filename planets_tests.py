@@ -1,3 +1,12 @@
+# Alek Ramirez
+# 013927364
+# 9-24-18
+#
+# Lab 0
+# Section 13
+# Purpose: Solving for the weight on different planets
+# Comments:
+
 import unittest
 import io, sys
 from planets import *
